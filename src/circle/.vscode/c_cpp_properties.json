@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jichaowong/race_ciricle/devel/include/**",
+        "/home/jichaowong/race/devel/include/**",
+        "/home/jichaowong/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/jichaowong/race_ciricle/src/circle/include/**",
+        "/home/jichaowong/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/jichaowong/catkin_ws/src/mavros/mavros/include/**",
+        "/home/jichaowong/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/home/jichaowong/race/src/px4_race/include/**",
+        "/home/jichaowong/race_ciricle/src/quadrotor_msgs/include/**",
+        "/home/jichaowong/catkin_ws/src/mavros/test_mavros/include/**",
+        "/home/jichaowong/race/src/uav_function/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
